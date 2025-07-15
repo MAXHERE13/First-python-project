@@ -1,0 +1,12 @@
+A:
+5
+B:
+10
+sum: 15
+difference: -5
+multiply: 50
+divide: 0.5
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
